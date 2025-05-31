@@ -1,0 +1,516 @@
+Gravidade	Código	Descrição	Projeto	Arquivo	Linha	Estado de Supressão	Detalhes
+Erro (ativo)	E0757	variável "sampleBuffer" não é o nome de um tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	320		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	83		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	101		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	105		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	178		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	183		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	192		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	201		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	210		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	215		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	220		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	225		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	229		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	234		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	238		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	255		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	285		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	345		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	83		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	101		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	105		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	366		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	393		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	414		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	427		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	178		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	183		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	192		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	201		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	210		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	215		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	220		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	225		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	229		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	234		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	238		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	255		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	285		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	345		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	366		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	393		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	414		
+Erro	C2027	uso de tipo indefinido 'GUNDAM_PluginAudioProcessor'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	427		
+Erro (ativo)	E1670	um qualificador de tipo não é permitido em uma função não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro (ativo)	E0728	um nome de namespace não é permitido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro (ativo)	E0757	parâmetro "midiNote" não é o nome de um tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	388		
+Erro (ativo)	E0757	parâmetro "midiNote" não é o nome de um tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	409		
+Erro (ativo)	E0322	objeto do tipo de classe abstrata "juce::Button" não é permitido:	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	48		
+Erro (ativo)	E0322	objeto do tipo de classe abstrata "juce::Button" não é permitido:	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	59		
+Erro (ativo)	E0322	objeto do tipo de classe abstrata "juce::Button" não é permitido:	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	68		
+Erro (ativo)	E0322	objeto do tipo de classe abstrata "juce::Button" não é permitido:	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	68		
+Erro (ativo)	E0020	o identificador "updateGeneratorParameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	299		
+Erro (ativo)	E0020	o identificador "processMidiEvents" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	296		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	422		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	430		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	454		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	455		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	456		
+Erro (ativo)	E0020	o identificador "parameters" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	457		
+Erro (ativo)	E0020	o identificador "MechaMovementAudioProcessor" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	5		
+Erro (ativo)	E0020	o identificador "MechaMovementAudioProcessor" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	15		
+Erro (ativo)	E0020	o identificador "MechaMovementAudioProcessor" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	29		
+Erro (ativo)	E0020	o identificador "masterMix" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	98		
+Erro (ativo)	E0020	o identificador "masterGain" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro (ativo)	E0020	o identificador "masterGain" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	340		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	149		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	167		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	185		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	201		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	219		
+Erro (ativo)	E0020	o identificador "MARGIN" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	242		
+Erro (ativo)	E0020	o identificador "handleNoteOn" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	353		
+Erro (ativo)	E0020	o identificador "handleNoteOff" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	357		
+Erro (ativo)	E0020	o identificador "handleControlChange" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	361		
+Erro (ativo)	E0020	o identificador "GROUP_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	132		
+Erro (ativo)	E0020	o identificador "GROUP_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	236		
+Erro (ativo)	E0020	o identificador "GROUP_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	260		
+Erro (ativo)	E0020	o identificador "getTotalNumOutputChannels" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	289		
+Erro (ativo)	E0020	o identificador "getTotalNumInputChannels" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	288		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	154		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	158		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	162		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	172		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	176		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	180		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	192		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	196		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	206		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	210		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	214		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	226		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	230		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	245		
+Erro (ativo)	E0020	o identificador "CONTROL_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	249		
+Erro (ativo)	E0020	o identificador "BUTTON_HEIGHT" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	253		
+Erro (ativo)	E0020	o identificador "BusesLayout" não está definido	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro (ativo)	E1587	não é possível deduzir o tipo 'auto'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	422		
+Erro	LNK1104	não é possível abrir o arquivo 'GUNDAM_Plugin.lib'	GUNDAM_Plugin_UnityPlugin	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Builds\VisualStudio2022\LINK	1		
+Erro	LNK1104	não é possível abrir o arquivo 'GUNDAM_Plugin.lib'	GUNDAM_Plugin_StandalonePlugin	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Builds\VisualStudio2022\LINK	1		
+Erro	LNK1104	não é possível abrir o arquivo 'GUNDAM_Plugin.lib'	GUNDAM_Plugin_VST3	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Builds\VisualStudio2022\LINK	1		
+Erro (ativo)	E0291	não há construtor padrão para a classe "juce::Button"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	7		
+Erro (ativo)	E0493	nenhuma instância de função sobrecarregada "GUNDAM_PluginAudioProcessor::GUNDAM_PluginAudioProcessor" corresponde ao tipo especificado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	83		
+Erro	C2100	indireção inválida	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	423		
+Erro	C2100	indireção inválida	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	423		
+Erro (ativo)	E0260	faltando tipo explícito (assumido 'int')	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	106		
+Erro (ativo)	E0260	faltando tipo explícito (assumido 'int')	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	460		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	85		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	102		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	85		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	102		
+Erro	C4430	faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	100		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	101		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	102		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	103		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	134		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	137		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	140		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	143		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	146		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	150		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	151		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	152		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	155		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	156		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	159		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	160		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	163		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	164		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	168		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	169		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	170		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	173		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	174		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	177		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	178		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	181		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	182		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	186		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	187		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	188		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	189		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	190		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	193		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	194		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	197		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	198		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	202		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	203		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	204		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	207		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	208		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	211		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	212		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	215		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	216		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	220		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	221		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	222		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	223		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	224		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	227		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	228		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	231		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	232		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	235		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	239		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	243		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	246		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	247		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	250		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	251		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	254		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	255		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	256		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	269		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	270		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	273		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	274		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	277		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	278		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	281		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	282		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	374		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	377		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	379		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	381		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	384		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	386		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	389		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	392		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	394		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	396		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	398		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	402		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	404		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	406		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	408		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	410		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	150		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	152		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	156		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	158		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	160		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	162		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	166		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	168		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	170		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	172		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	442		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	443		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	444		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	445		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	448		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	449		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	450		
+Erro (ativo)	E0077	essa declaração não possui classe de armazenamento ou especificador de tipo	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	451		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	107		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	283		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	303		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	412		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	175		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	176		
+Erro (ativo)	E0169	esperado uma declaração	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	461		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	320		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	388		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	409		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	454		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	455		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	456		
+Erro (ativo)	E0040	esperado um identificador	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	457		
+Erro (ativo)	E0130	esperado um '{'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	85		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	134		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	137		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	140		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	143		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	146		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	150		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	151		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	152		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	155		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	156		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	159		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	160		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	163		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	164		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	168		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	169		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	170		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	173		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	174		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	177		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	178		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	181		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	182		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	186		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	187		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	188		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	189		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	190		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	193		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	194		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	197		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	198		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	202		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	203		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	204		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	207		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	208		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	211		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	212		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	215		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	216		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	220		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	221		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	222		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	223		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	224		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	227		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	228		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	231		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	232		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	235		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	239		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	243		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	246		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	247		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	250		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	251		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	254		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	255		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	256		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	269		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	270		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	273		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	274		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	277		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	278		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	281		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	282		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	374		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	377		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	379		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	381		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	384		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	386		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	389		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	392		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	394		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	396		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	398		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	402		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	404		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	406		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	408		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	410		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	113		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	150		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	152		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	156		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	158		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	160		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	162		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	166		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	168		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	170		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	172		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	442		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	443		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	444		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	445		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	448		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	449		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	450		
+Erro (ativo)	E0065	esperado um ';'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	451		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	388		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	409		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	454		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	455		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	456		
+Erro (ativo)	E0018	esperado um ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	457		
+Erro	C2143	erro de sintaxe: ';' ausente antes de ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2143	erro de sintaxe: ';' ausente antes de ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2059	erro de sintaxe: ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2059	erro de sintaxe: ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	245		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	252		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	261		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	320		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	388		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	409		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	245		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	252		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	261		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	320		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	388		
+Erro	C2059	erro de sintaxe: '.'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	409		
+Erro	C2143	erro de sintaxe: ',' ausente antes de '&'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2143	erro de sintaxe: ',' ausente antes de '&'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2143	erro de sintaxe: ')' ausente antes de ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2143	erro de sintaxe: ')' ausente antes de ':'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2059	erro de sintaxe: ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	113		
+Erro	C2059	erro de sintaxe: ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	113		
+Erro	C2059	erro de sintaxe: ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	113		
+Erro	C2059	erro de sintaxe: ')'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	113		
+Erro	C1003	contador de erros excede 100; interrompendo compilação	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	438		
+Erro	C1003	contador de erros excede 100; interrompendo compilação	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	438		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "updateGeneratorParameters"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	427		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "processMidiEvents"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	345		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "processBlock"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	285		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "isBusesLayoutSupported"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "handleNoteOn"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	366		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "handleNoteOff"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	393		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "handleControlChange"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	414		
+Erro (ativo)	E0135	classe "GUNDAM_PluginAudioProcessor" não possui membro "createParameterLayout"	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	105		
+Erro	C2550	'{ctor}': listas de inicializadores de construtor são permitidas apenas em definições de construtor	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	95		
+Erro	C2550	'{ctor}': listas de inicializadores de construtor são permitidas apenas em definições de construtor	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	95		
+Erro	C3861	'updateGeneratorParameters': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	299		
+Erro	C3861	'updateGeneratorParameters': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	299		
+Erro	C2355	'this': é possível referenciar apenas dentro de funções de membro não estáticas ou inicializadores de membros de dados não estáticos	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	94		
+Erro	C2355	'this': é possível referenciar apenas dentro de funções de membro não estáticas ou inicializadores de membros de dados não estáticos	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	94		
+Erro	C2882	'std': uso inválido de identificador de namespace em expressão	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2882	'std': uso inválido de identificador de namespace em expressão	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	112		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	242		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	249		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	258		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	317		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	378		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	402		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	436		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	437		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	438		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	242		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	249		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	258		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	317		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	378		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	402		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	436		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	437		
+Erro	C2065	'servoGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	438		
+Erro	C2270	'producesMidi': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	192		
+Erro	C2270	'producesMidi': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	192		
+Erro	C3861	'processMidiEvents': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	296		
+Erro	C3861	'processMidiEvents': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	296		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	98		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	98		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	422		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	430		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	431		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	432		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	433		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	436		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	437		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	422		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	430		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	431		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	432		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	433		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	436		
+Erro	C2065	'parameters': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	437		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	243		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	250		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	259		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	318		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	381		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	243		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	250		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	259		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	318		
+Erro	C2065	'metalImpactGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	381		
+Erro	C2065	'masterMix': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	98		
+Erro	C2065	'masterMix': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	98		
+Erro	C2065	'masterGain': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro	C2065	'masterGain': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	340		
+Erro	C2065	'masterGain': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	97		
+Erro	C2065	'masterGain': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	340		
+Erro	C3536	'macro1': não pode ser usado antes de ser inicializado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	423		
+Erro	C3536	'macro1': não pode ser usado antes de ser inicializado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	423		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	271		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	272		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	276		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	276		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	271		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	272		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	276		
+Erro	C2065	'layouts': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	276		
+Erro	C2280	'juce::var::var(const void *)': tentando referenciar uma função excluída	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\Preset\PresetManager.cpp	178		
+Erro	C2665	'juce::AudioFormatManager::createReaderFor': nenhuma função sobrecarregada pode converter todos os tipos de argumento	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\AudioEngine\SamplePlayback.cpp	211		
+Erro	C2270	'isMidiEffect': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	201		
+Erro	C2270	'isMidiEffect': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	201		
+Erro	C2270	'isBusesLayoutSupported': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2270	'isBusesLayoutSupported': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	265		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	241		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	248		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	257		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	316		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	375		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	399		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	430		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	431		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	432		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	433		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	241		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	248		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	257		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	316		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	375		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	399		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	430		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	431		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	432		
+Erro	C2065	'hydraulicGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	433		
+Erro	C3861	'handleNoteOn': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	353		
+Erro	C3861	'handleNoteOn': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	353		
+Erro	C3861	'handleNoteOff': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	357		
+Erro	C3861	'handleNoteOff': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	357		
+Erro	C3861	'handleControlChange': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	361		
+Erro	C3861	'handleControlChange': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	361		
+Erro	C2011	'GUNDAM_PluginAudioProcessor': redefinição do tipo 'class'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	9		
+Erro	C2011	'GUNDAM_PluginAudioProcessor': redefinição do tipo 'class'	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.h	9		
+Erro	C3861	'getTotalNumOutputChannels': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	289		
+Erro	C3861	'getTotalNumOutputChannels': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	289		
+Erro	C3861	'getTotalNumInputChannels': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	288		
+Erro	C3861	'getTotalNumInputChannels': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	288		
+Erro	C2270	'getTailLengthSeconds': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	210		
+Erro	C2270	'getTailLengthSeconds': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	210		
+Erro	C2270	'getName': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	178		
+Erro	C2270	'getName': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	178		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	244		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	251		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	260		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	319		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	384		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	405		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	244		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	251		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	260		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	319		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	384		
+Erro	C2065	'gearGrindGen': identificador não declarado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	405		
+Erro	C3861	'createParameterLayout': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	94		
+Erro	C3861	'createParameterLayout': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	94		
+Erro	C3861	'BusesProperties': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	85		
+Erro	C3861	'BusesProperties': identificador não encontrado	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	85		
+Erro	C2270	'acceptsMidi': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	183		
+Erro	C2270	'acceptsMidi': modificadores não permitidos em funções não membro	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginProcessor.h	183		
+Erro (ativo)	E0330	"juce::AudioProcessorEditor::AudioProcessorEditor(const juce::AudioProcessorEditor &)" (declarado na linha 269 de "C:\Users\marce\Downloads\JUCE-master\modules\juce_audio_processors\processors\juce_AudioProcessorEditor.h") inacessível	GUNDAM_Plugin_SharedCode	C:\Users\marce\OneDrive\Documentos\GUNDAM_Plugin\GUNDAM_Plugin\Source\PluginEditor.cpp	6		
